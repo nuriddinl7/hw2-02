@@ -1,0 +1,17 @@
+.calculator {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin-top: 50px;
+  }
+  
+  input {
+    padding: 15px;
+    margin: 5px;
+  }
+  
+  button {
+    padding: 20px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
